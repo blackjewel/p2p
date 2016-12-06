@@ -1,0 +1,31 @@
+.container .panel {
+  background: #F4F8FA;
+  padding-left: 30px;
+  border-left: 2px solid  #0099DD;
+}
+.container .panel h3 {
+  color: #0099DD;
+}
+.container .tab-pane h3 {
+  text-align: center;
+  color: #AB4942;
+}
+.container .tab-content .mm3 {
+  color: #337AB7 ;
+}
+.container .tab-content thead tr th {
+  color: black;
+  font-size: 16px;
+}
+.container .tab-content tbody tr:nth-child(1) td:nth-child(1) {
+  background: url(../img/bank_list.png) no-repeat;
+  background-position: 0 0;
+}
+.container .tab-content tbody tr:nth-child(2) td:nth-child(1) {
+  background: url(../img/bank_list.png) no-repeat;
+  background-position: 0 -31px;
+}
+.container .tab-content tbody tr:nth-child(3) td:nth-child(1) {
+  background: url(../img/bank_list.png) no-repeat;
+  background-position: 0 -102px;
+}

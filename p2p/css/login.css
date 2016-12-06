@@ -1,0 +1,16 @@
+#header {
+  background: black;
+  height: 40px;
+  width: 100%;
+}
+#header a {
+  color: white;
+}
+#form {
+  width: 600px !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+#form input {
+  width: 200px !important;
+}

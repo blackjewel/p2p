@@ -1,0 +1,39 @@
+.row .panel {
+  border: 1px solid #DDDDDD;
+}
+.row .panel .list-group .list-group-item {
+  background: #F5F5F5;
+  padding: 0;
+}
+.row .panel .list-group .list-group-item a {
+  padding-left: 15px;
+}
+.row .panel .list-group .aa {
+  background: #fff !important;
+  display: none;
+}
+.row .panel li a {
+  display: block;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+}
+.row .panel li .bgcolor {
+  background: #337AB7 ;
+  color: white;
+}
+.row .panel li ul {
+  list-style: none;
+  border-top: 1px solid #ddd;
+  padding-left: 0px;
+  background: #fff;
+  display: none;
+}
+.row .panel li li {
+  height: 40px;
+  padding-left: 40px;
+  line-height: 40px;
+}
+.col-sm-9 .panel ul {
+  list-style: none;
+}

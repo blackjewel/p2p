@@ -1,0 +1,12 @@
+footer {
+  background: #F8F8F8;
+  padding-top: 30px;
+}
+#header {
+  background: black;
+  height: 40px;
+  width: 100%;
+}
+#header a {
+  color: white;
+}

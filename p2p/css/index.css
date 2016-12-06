@@ -1,0 +1,11 @@
+#header_top {
+  background: black;
+  margin-bottom: 0px;
+}
+#header_top a {
+  color: #FFFFFF;
+}
+footer {
+  background: #F8F8F8;
+  padding-top: 30px;
+}
